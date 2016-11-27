@@ -1,6 +1,7 @@
 #Ignore TARGET
 
-target/
+!target/site/*.html
 .classpath
 .settings/
 .project
+target/classes
